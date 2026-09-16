@@ -33,7 +33,7 @@ I'm a second-year Computer Science student at Ontario Tech University, building 
 
 ## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/ore-ofe-julianah-alabi-798195428/
+LinkedIn: www.linkedin.com/in/ore-ofe-alabi-798195428
 
 Portfolio: Coming Soon
 
