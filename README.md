@@ -15,7 +15,7 @@ I'm a second-year Computer Science student at Ontario Tech University, building 
 - Python
 - HTML
 - CSS
-- JavaScript
+- Java
 - Git
 - GitHub
 
