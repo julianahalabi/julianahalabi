@@ -7,7 +7,7 @@ I'm a second-year Computer Science student at Ontario Tech University, building 
 - 📍 Based in Ontario, Canada
 - 🎓 Studying Computer Science at Ontario Tech University
 - 🌱 Currently learning C++, Git & GitHub, Python, and Web Development
-- 🎯 Working towards a Summer 2027 Software Engineering Internship
+  
 
 ## 💻 Technologies I'm Learning
 
